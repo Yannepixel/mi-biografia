@@ -12,3 +12,7 @@
 - Bordar punto cruz
 - Coleccionar stikers
 - Aprender datos historicos
+
+## Contacto
+
+correo@ficticio.com
