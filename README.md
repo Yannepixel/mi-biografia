@@ -12,3 +12,7 @@
 - Bordar punto cruz
 - Coleccionar stikers
 - Aprender datos historicos
+
+## Contacto
+
+yannecasti2325@gmail.com
